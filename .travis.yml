@@ -1,4 +1,4 @@
 language: node_js
-
+build_environment : Ubuntu1304
 node_js:
   - "0.10"
